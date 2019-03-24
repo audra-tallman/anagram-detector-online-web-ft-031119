@@ -6,7 +6,8 @@ def initialize(word)
   @word= word
 end
 
-def
+def match(list)
+  list.
 
 
 end 
