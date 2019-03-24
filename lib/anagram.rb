@@ -7,7 +7,7 @@ def initialize(word)
 end
 
 def match(list)
-  list.
+  list.select
 
 
 end 
