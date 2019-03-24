@@ -7,9 +7,7 @@ def initialize(word)
 end
 
 def match(list)
-  list.select {|word| word = 
-
-
+  list.select {|word| word.split("").sort == @word.split("").sort} 
 end 
   
 end
